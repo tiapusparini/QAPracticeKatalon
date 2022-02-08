@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case can perform, if we already logged in. We should scan the QC Code first</description>
+   <name>AfterLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd78acee-497f-4eb7-917f-93508fa38f16</testCaseGuid>
+</TestCaseEntity>

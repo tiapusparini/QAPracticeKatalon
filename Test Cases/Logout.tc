@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case can perform, if we already logged in</description>
+   <name>Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f349cab6-7359-4e78-8318-ccb8d533623b</testCaseGuid>
+</TestCaseEntity>
